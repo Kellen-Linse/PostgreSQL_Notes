@@ -46,11 +46,15 @@
 
 - We can also use the **OR** keyword in compound WHERE statements.
 
+<hr>
+
 ## Calculations in WHERE Clauses
 
 - Just as we were able to do calculations in the SELECT portion of our query, we are also able to do calculations in there WHERE section:
 
 ![calc](../resources/calc.JPG)
+
+<hr>
 
 ## Updating Rows
 
@@ -61,6 +65,8 @@
 ![updateQ](../resources/updateQ.JPG)
 
 - It is important that your WHERE statement is specific enough that you are only going to update the row (city) that you wish to update and not multiple rows.
+
+<hr>
 
 ## Deleting Rows
 
