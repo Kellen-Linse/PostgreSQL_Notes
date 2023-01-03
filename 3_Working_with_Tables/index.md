@@ -22,7 +22,7 @@
 
 ![instagram](../resources/insta.JPG)
 
-## One-to-Many and Many-to-One Relationships
+## Relationships
 
 ### The four relationships:
 
@@ -38,3 +38,13 @@
   - From the **perspective** of the photos.
 
 ![otm](../resources/otm-mto.JPG)
+
+3. One-to-One 
+  - One record that has a relationship to exactly one other relationship.
+
+![one](../resources/one-to-one.JPG)
+
+4. Many-to-Many 
+  - Many records connected to many other records.
+
+![many](../resources/many-to-many.JPG)
