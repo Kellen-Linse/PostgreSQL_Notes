@@ -1,13 +1,12 @@
-remote_theme: pages-themes/time-machine@v0.2.0
+theme: minima
 
 plugins:
-  - jekyll-remote-theme
   - jekyll-relative-links
 
 relative_links:
   enabled: true
   collections: true
-  
+
 include:
   - README.md
   - notes.md
