@@ -1,7 +1,6 @@
-remote_theme: mmistakes/minimal-mistakes
+theme: minimal-mistakes-jekyll
 
 plugins:
-  - jekyll-feed
   - jekyll-include-cache
   - jekyll-relative-links
 relative_links:
