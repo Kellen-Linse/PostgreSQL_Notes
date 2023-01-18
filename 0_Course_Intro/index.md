@@ -1,4 +1,4 @@
-# Introduction and SQL Statements
+# Course Intro
 
 ## What is PostgreSQL All About?
 
