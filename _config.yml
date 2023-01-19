@@ -1,8 +1,7 @@
-remote_theme: pages-themes/midnight@v0.2.0
+theme: minima
 
 plugins:
   - jekyll-relative-links
-  - jekyll-remote-theme
 relative_links:
   enabled: false
   collections: true
