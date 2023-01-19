@@ -38,4 +38,6 @@
   - Understanding when to use advanced features
   - Managing the database in a production environment
 
+<hr>
+
 [NEXT >>>](../1_Intro_and_SQL_Statements/index.md)

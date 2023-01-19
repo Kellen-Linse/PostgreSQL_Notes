@@ -137,3 +137,7 @@ For Example, we can calculate the population density by dividing the population 
   - **Notice:** the upper function call within the CONCAT function call.
 
 ![upper](../resources/upper.JPG)
+
+<hr>
+
+[<<< PREV](../0_Course_Intro/index.md) - [NEXT >>>](../2_Filtering_Records/index.md)
