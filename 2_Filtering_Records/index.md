@@ -1,6 +1,9 @@
-# Filtering Records
+# Filtering, Updating and Deleting Records
 
-## Filtering Rows with WHERE
+<hr>
+<br>
+
+## Filtering Rows with **WHERE**
 
 - The **WHERE** keyword followed by some condition lets us filter our results, receiving only the results that meet the condition we have set.
 
@@ -64,15 +67,18 @@
 
 ![updateQ](../resources/updateQ.JPG)
 
-- It is important that your WHERE statement is specific enough that you are only going to update the row (city) that you wish to update and not multiple rows.
+- It is important that your **WHERE statement is specific enough that you are only going to update the row that you wish to update** and not multiple rows.
 
 <hr>
 
 ## Deleting Rows
 
-- You need to be careful about your WHERE statement in deleing as well, or else you may delete items you do not intend to. 
+- You need to be careful about your WHERE statement in deleting as well, or else you may delete items you do not intend to. 
 
 ![delete](../resources/delete.JPG)
 
 ![deleteQ](../resources/delete.JPG)
 
+<hr>
+
+[<<< PREV](../1_Intro_and_SQL_Statements/index.md) - [NEXT >>>](../3_Working_with_Tables/index.md)

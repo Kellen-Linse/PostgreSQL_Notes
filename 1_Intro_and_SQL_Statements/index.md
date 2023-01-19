@@ -1,5 +1,8 @@
 # Introduction to SQL Statements
 
+<hr>
+<br>
+
 ## Database Design
 
 ![design](../resources/design_process.JPG)
