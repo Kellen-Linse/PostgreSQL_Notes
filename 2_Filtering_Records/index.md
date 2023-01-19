@@ -81,4 +81,4 @@
 
 <hr>
 
-[<<< PREV](../1_Intro_and_SQL_Statements/index.md) - [NEXT >>>](../3_Working_with_Tables/index.md)
+[<< PREV](../1_Intro_and_SQL_Statements/index.md) - [NEXT >>](../3_Working_with_Tables/index.md)
