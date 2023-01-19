@@ -6,23 +6,23 @@
 
 <hr>
 
-- Table: Collection of records that sits in our db.
+- **Table**: **A table is a collection of records that sits in our db.**
   - A table generally can be though to hold things of a like kind, in our example case, the table is holding cities.
 
 ![table](../resources/table.JPG)
 
 <hr>
 
-- Tables contain columns, each represents one property of the type of item that this table is intended to hold.
-  - In our example case each column represents one property of a city.
-- Each column also must indicate the type of the data held in it.
+- Tables contain **columns**.
+  - **Columns represents one property of the type of item that this table is intended to hold.**
+  - In our example case *each column represents one property* of a city.
+- Each **column must indicate the type** of the data held in it.
 
 ![column](../resources/columns.JPG)
 
-
-
-- Tables also contain rows, rows hold a single instance ( or record) of the items within the table. 
-  - In our example case, Seattle would be a single instance of a city, and it's information would be contained in a single row.
+- Tables also contain **rows**.
+  - **Rows hold a single instance (or record) of the items within the table.**
+  - In our example case, *Seattle would be a single instance of a city*, and it's information would be contained in a single row.
 
 ![row](../resources/rows.JPG)
 
@@ -43,7 +43,7 @@
 
 ![create table](../resources/create_table.jpg)
 
-- This call to create a table of cities will then look like this:
+- This CREATE TABLE will look like this once the call is executed:
 
 ![table](../resources/cities.JPG)
 
@@ -101,7 +101,7 @@
 ## Calculated Columns
 
 - SQL is not just about pulling raw data out of a table.
-- We can write SQL to *transform* or *process* our data before we receive it.
+- **We can write SQL to *transform* or *process* our data before we receive it.**
 
 For Example, we can calculate the population density by dividing the population by the area.
 - **Notice:** The newly created column has a name of `?column?`. SQL knows we have done some math, but it doesn't know what to call it.
@@ -134,6 +134,6 @@ For Example, we can calculate the population density by dividing the population 
 ![concat](../resources/concat1.JPG)
 
 - Example of nested function calls:
-- **Notice:* the upper function call.
+  - **Notice:** the upper function call within the CONCAT function call.
 
 ![upper](../resources/upper.JPG)
