@@ -1,10 +1,14 @@
 # Course Intro
 
+<hr>
+<br>
+
 ## What is PostgreSQL All About?
 
 - Databases store information
 - PostgreSQL ( Postgres) is a type of database(db).
-- We interface with our db via a "client" which is a piece of software or web application designed to interact with the db to create, read, update, or delete data.
+- We interface with our db via a **client**.
+  - A **client** is a piece of software or web application designed to interact with the db to create, read, update, or delete data.
 
 ![client](../resources/client.JPG)
 
@@ -23,7 +27,7 @@
 
 - **SQL is very different than Postgres!**
   - SQL is a communication language, a set of instructions that allows us to interact with our db.
-    - SQL is not specific to Postgres, it is used for a variety of different dbs.
+    - SQL is NOT specific to Postgres, it is used for a variety of different dbs.
       - You can transfer the knowledge to other dbs.
 
 <hr>
@@ -33,3 +37,5 @@
   - Designing the schema, or structure, of the db
   - Understanding when to use advanced features
   - Managing the database in a production environment
+
+[NEXT >>>](../1_Intro_and_SQL_Statements/index.md)
