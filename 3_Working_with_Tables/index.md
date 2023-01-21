@@ -85,3 +85,47 @@
 - We also need to add the `PRIMARY KEY` keyword to the id property to tell pg we intend to use it as a primary key.
 
 ![pg-vis](../resources/pg-vis-2.jpg)
+
+## Creating Foreign Key Columns
+
+- Foreign Keys allow for 'consistency' in our data.
+
+![pg vis](../resources/pg-vis-3.jpg)
+
+## Running Queries on Associated Data 
+
+Two ways we can retrieve the photos for a given user:
+  - We will talk more about JOINS soon
+
+![data q](../resources/data_q.JPG)
+
+## Foreign Key Constraints Around Data Insertion
+
+- We need consistency with our data, for example, if we insert a photo into our photos table, we need to ensure that the user we are attempting to associate that photo with actually exists.
+  - If we attempt this scenario, we will get an error in return.
+
+![insert error](../resources/insert_error.JPG)
+
+- **Because we have set up the Foreign key PG knows to check for the associated Primary key.**
+
+<br>
+
+- If we wish to add a photo and not associate it with a user, we can use `NULL` in the user_id field.
+
+![null](../resources/null.JPG)
+
+## Constraints Around Deletion
+
+- Delete options are added when the table is created.
+
+![delete options](../resources/delete_options.JPG)
+
+- **ON DELETE RESTRICT** is the default option if no option is listed.
+
+## Setting Delete Options
+
+- We add the delete option to the Foreign Key property
+
+![setting delete options](../resources/setting_delete_options.JPG)
+
+[<< PREV](../2_Filtering_Records/index.md) - [NEXT >>](../4_Relating_Records/index.md)
