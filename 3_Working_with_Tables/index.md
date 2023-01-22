@@ -1,5 +1,8 @@
 # Working with Tables
 
+<hr>
+<br>
+
 ## The Plan Moving Forwards
 
 - Most all dbs have more than one table.

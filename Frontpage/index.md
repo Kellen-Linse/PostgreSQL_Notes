@@ -10,3 +10,11 @@ To resolve this issue add "../" to the front of the relative link.
 2. [Intro and SQL Statements](../1_Intro_and_SQL_Statements/index.md)
 3. [Filtering, Updating and Deleting Records](../2_Filtering_Records/index.md)
 4. [Working with Tables](../3_Working_with_Tables/index.md)
+5. [Relating Records with Joins](../4_Relating_Records/index.md)
+
+<br>
+<hr>
+
+## Cheat Sheets
+
+1. [Joins Cheat Sheet](../Cheat_Sheets/joins_cheatsheet.pdf)
