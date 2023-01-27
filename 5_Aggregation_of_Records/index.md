@@ -15,5 +15,8 @@
 ## Picturing GROUP BY
 
   - `GROUP BY` is always **two separate words**.
+  - Will find all the unique values within a table.
+  - Can only select those columns which you are grouping by.
+  - Not very interesting on it's own, will become more useful once combined with aggregate functions.
 
 ![group by](../resources/group_by.JPG)
