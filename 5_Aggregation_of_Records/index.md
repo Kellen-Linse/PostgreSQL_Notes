@@ -85,4 +85,4 @@
 
 - `HAVING` is very similar to `WHERE`, it's goal is to filter some set of results.
   - `WHERE` is going to filter out some set of **rows**.
-  - `HAVING` is going to filter out some set of **groups**.
+  - `HAVING` is going to filter out some set of **groups**
