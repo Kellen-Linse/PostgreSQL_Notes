@@ -24,6 +24,8 @@
 
 ## Picturing GROUP BY
 
+![gb](../resources/gb.JPG)
+
   - `GROUP BY` is always **two separate words**.
   - Will find all the unique values within a table.
   - **Can only select those columns which you are grouping by.**
@@ -33,9 +35,9 @@
 
 - **You can picture `GROUP BY` as your db setting up tables made from each group:**
 
-![grouped tables](../resources/group_by_fake.JPG)
-
   - notice that each "group table" is made up of comments by a single user, because that is what it was grouped by.
+  - 
+![grouped tables](../resources/group_by_fake.JPG)
 
 ## Aggregate Functions
 
@@ -44,6 +46,7 @@
 
 ![agg](../resources/agg.JPG)
 
+- Aggregate functions are used either by themselves or in combination with GROUP BY statements.
 - We use aggregate functions in the select statement.
   - We pass in the column we wish to aggregate to the aggregate function after the `SELECT` keyword.
   - **Can be thought of like .reduce() in JavaScript**
@@ -56,10 +59,10 @@
 
 ## Combining Group By and Aggregate Functions
 
-- An aggregate function when used in combination with GROUP BY will only be applied to each sub-group, not the whole.
+- **When used in combination with GROUP BY, an aggregate function will only be applied to each sub-group, not the whole.**
 - Aggregate functions is when we can really start doing things with our data.
-  - In the example below, we are grouping all user IDs in the comments table, then finding out the largest ID for each user.
-    - So we are first grouping the users together, then we are looking for the max comment ID for each user.
+- In the example below, we are grouping all user IDs in the comments table, then finding out the largest ID for each user.
+  - So we are first grouping the users together, then we are looking for the max comment ID for each user.
 
 ![max group](../resources/max_group.JPG)
 
@@ -83,6 +86,15 @@
 
 ## Filtering Groups with HAVING
 
+- **`HAVING` filters groups.**
+<br>
+
 - `HAVING` is very similar to `WHERE`, it's goal is to filter some set of results.
   - `WHERE` is going to filter out some set of **rows**.
   - `HAVING` is going to filter out some set of **groups**
+<br>
+
+- **You will never see `HAVING` without `GROUP BY`.**
+
+## More on Having
+
