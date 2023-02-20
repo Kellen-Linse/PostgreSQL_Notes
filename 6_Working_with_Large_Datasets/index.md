@@ -8,3 +8,7 @@
 - Will simulate a basic commerce store.
 
 ![new dataset](../resources/new_dataset.JPG)
+
+## Review
+
+- The rest of this chapter is review
