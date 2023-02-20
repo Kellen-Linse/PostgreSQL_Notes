@@ -24,6 +24,10 @@
 
 ## Offset and Limit
 
+- We can use a column to order by, but we can also use a calculation to order by.
+  - For Example: `price / weight`
+<br>
+
 - `OFFSET` - Any time we want to skip some number of records within a result set.
   ![offset](../resources/Offset.JPG)
 <br>
