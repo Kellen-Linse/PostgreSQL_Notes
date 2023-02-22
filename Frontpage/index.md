@@ -11,6 +11,13 @@ To resolve this issue add "../" to the front of the relative link.
 3. [Filtering, Updating and Deleting Records](../2_Filtering_Records/index.md)
 4. [Working with Tables](../3_Working_with_Tables/index.md)
 5. [Relating Records with Joins](../4_Relating_Records/index.md)
+6. [Aggregation of Records](../5_Aggregation_of_Records/index.md)
+7. [Working with Large Datasets](../6_Working_with_Large_Datasets/index.md)
+8. [Sorting Records](../7_Sorting_Records/index.md)
+9. [Union and Intersections with Sets](../8_Unions_and_Intersections/index.md)
+10. [Assembling Queries with SubQueries](../9_Assembing_Queries_with_SubQueries/index.md)
+11. [Selecting Distinct Records](../10_Selecting_Distinct_Records/index.md)
+12. [Utility Operators, Keywords, and Functions](../11_Utility_Keywords_Functions/index.md)
 
 <br>
 <hr>
