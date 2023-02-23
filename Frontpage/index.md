@@ -18,6 +18,7 @@ To resolve this issue add "../" to the front of the relative link.
 10. [Assembling Queries with SubQueries](../9_Assembing_Queries_with_SubQueries/index.md)
 11. [Selecting Distinct Records](../10_Selecting_Distinct_Records/index.md)
 12. [Utility Operators, Keywords, and Functions](../11_Utility_Keywords_Functions/index.md)
+13. [Complex Datatypes](../13_PG_Complex_Datatypes/index.md)
 
 <br>
 <hr>
