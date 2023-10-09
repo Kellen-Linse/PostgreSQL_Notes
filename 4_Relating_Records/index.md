@@ -126,4 +126,4 @@
 ![three way join](../resources/three_way.JPG)
 
 
-[<< PREV](../3_Working_with_Tables/index.md) - [NEXT >>](../5_Aggregation_of_Records/index.md)
+[<< PREV](../3_Working_with_Tables/index.md) - [HOME](../Frontpage/index.md) - [NEXT >>](../5_Aggregation_of_Records/index.md)

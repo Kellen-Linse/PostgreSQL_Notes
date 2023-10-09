@@ -119,4 +119,4 @@
 
 ![sub single](../resources/sub-single.JPG)
 
-[<< PREV](../8_Unions_and_Intersections/index.md) - [NEXT >>](../10_Selecting_Distinct_Records/index.md)
+[<< PREV](../8_Unions_and_Intersections/index.md) - [HOME](../Frontpage/index.md) - [NEXT >>](../10_Selecting_Distinct_Records/index.md)

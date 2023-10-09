@@ -23,4 +23,4 @@
 
 ![pg](../resources/distinct_combo.JPG)
 
-[<< PREV](../9_Assembing_Queries_with_SubQueries/index.md) - [NEXT >>](../11_Utility_Keywords_Functions/index.md)
+[<< PREV](../9_Assembing_Queries_with_SubQueries/index.md) - [HOME](../Frontpage/index.md) - [NEXT >>](../11_Utility_Keywords_Functions/index.md)

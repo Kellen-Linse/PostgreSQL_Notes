@@ -40,4 +40,4 @@
 
 <hr>
 
-[NEXT >>](../1_Intro_and_SQL_Statements/index.md)
+[HOME](../Frontpage/index.md) - [NEXT >>](../1_Intro_and_SQL_Statements/index.md)

@@ -25,4 +25,4 @@
     - `THEN` - What to execute if the condition evaluates to true.
     - `ELSE` - What to execute if the condition evaluates to false.
 
-[<< PREV](../10_Selecting_Distinct_Records/) - [NEXT >>](../13_PG_Complex_Datatypes/index.md)
+[<< PREV](../10_Selecting_Distinct_Records/) - [HOME](../Frontpage/index.md) - [NEXT >>](../13_PG_Complex_Datatypes/index.md)

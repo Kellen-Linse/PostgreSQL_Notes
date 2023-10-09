@@ -13,4 +13,4 @@
 
 - The rest of this chapter is review
 
-[<< PREV](../5_Aggregation_of_Records/index.md) - [NEXT >>](../7_Sorting_Records/index.md)
+[<< PREV](../5_Aggregation_of_Records/index.md) - [HOME](../Frontpage/index.md) - [NEXT >>](../7_Sorting_Records/index.md)

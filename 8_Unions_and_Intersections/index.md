@@ -36,4 +36,4 @@
 
 - `EXCEPT ALL` - EXCEPT but does not remove duplicates.
 
-[<< PREV](../7_Sorting_Records/index.md) - [NEXT >>](../9_Assembing_Queries_with_SubQueries/index.md)
+[<< PREV](../7_Sorting_Records/index.md) - [HOME](../Frontpage/index.md) - [NEXT >>](../9_Assembing_Queries_with_SubQueries/index.md)

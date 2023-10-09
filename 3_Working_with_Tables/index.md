@@ -131,4 +131,4 @@ Two ways we can retrieve the photos for a given user:
 
 ![setting delete options](../resources/setting_delete_options.JPG)
 
-[<< PREV](../2_Filtering_Records/index.md) - [NEXT >>](../4_Relating_Records/index.md)
+[<< PREV](../2_Filtering_Records/index.md) - [HOME](../Frontpage/index.md) - [NEXT >>](../4_Relating_Records/index.md)
