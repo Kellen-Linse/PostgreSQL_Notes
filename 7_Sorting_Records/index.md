@@ -53,3 +53,5 @@
   - We can combine offset and limit to decrease the size of our result set.
   - If we have 1000s of results we would not want to return the entire result set, we would want to return only some ***limited*** number of those results at a time.
     - We can also keep track of where our offset is incase we wish to request more of those results.
+
+[<< PREV](../6_Working_with_Large_Datasets/index.md) - [NEXT >>](../8_Unions_and_Intersections/index.md)

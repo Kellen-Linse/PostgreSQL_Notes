@@ -110,3 +110,5 @@
 - Short answer: both places.
 
   ![where to validated](../resources/validation_where.JPG)
+
+  [<< PREV](../13_PG_Complex_Datatypes/index.md) - [NEXT >>](../14_DB_side_Validation/)

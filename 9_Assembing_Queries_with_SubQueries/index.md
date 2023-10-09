@@ -118,3 +118,5 @@
   - Good for calculating, such as finding things like ratios.
 
 ![sub single](../resources/sub-single.JPG)
+
+[<< PREV](../8_Unions_and_Intersections/index.md) - [NEXT >>](../10_Selecting_Distinct_Records/index.md)

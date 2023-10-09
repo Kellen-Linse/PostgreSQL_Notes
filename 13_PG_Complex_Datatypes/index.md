@@ -115,3 +115,4 @@
   ![tz math](../resources/tz_math.JPG)
 <br>
 
+[<< PREV](../13_PG_Complex_Datatypes/index.md) - [NEXT >>](../14_DB_side_Validation/index.md)

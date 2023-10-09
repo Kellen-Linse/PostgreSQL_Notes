@@ -24,3 +24,5 @@
     - `WHEN` - Think of like "if true", **WHEN is followed by a condition**.
     - `THEN` - What to execute if the condition evaluates to true.
     - `ELSE` - What to execute if the condition evaluates to false.
+
+[<< PREV](../10_Selecting_Distinct_Records/) - [NEXT >>](../13_PG_Complex_Datatypes/index.md)
