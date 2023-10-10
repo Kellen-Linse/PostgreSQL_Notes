@@ -28,7 +28,7 @@
 ![sub select](../resources/sub_select.JPG)
 <br>
 
-## Subqueries in a Form
+## Subqueries in a FROM
 
 - You can think of a subquery in the FROM statement as building a table from which we will run the outer query on.
 - Our outer query's SELECT statement **must be compatible with the table we make.**

@@ -111,4 +111,4 @@
 
   ![where to validated](../resources/validation_where.JPG)
 
-  [<< PREV](../13_PG_Complex_Datatypes/index.md) - [HOME](../Frontpage/index.md) - [NEXT >>](../14_DB_side_Validation/)
+  [<< PREV](../13_PG_Complex_Datatypes/index.md) - [HOME](../Frontpage/index.md) - [NEXT >>](../15_Approaching_More_Complex_Designs/index.md)
